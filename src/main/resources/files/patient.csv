@@ -1,0 +1,6 @@
+nom,prenom,age,genre,malade
+Doe,John,25,Male,false
+Smith,Jane,30,Female,true
+Johnson,Michael,22,Male,false
+Williams,Emily,35,Female,true
+Brown,David,28,Male,false
